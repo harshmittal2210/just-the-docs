@@ -1,12 +1,12 @@
 ---
 layout: default
-title: New Songs
+title: English Songs
 nav_order: 1
 has_children: true
 parent: Guitar
 ---
 
-# New Songs List
+# Old Songs List
 {: .no_toc }
 
 ## Table of contents
