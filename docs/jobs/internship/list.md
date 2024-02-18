@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Conferences
+title: Internships
 nav_order: 2
 has_children: true
+parent: Jobs
 ---
 
 # Conferences

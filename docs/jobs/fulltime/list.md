@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Conferences
-nav_order: 2
+title: Fulltime
+nav_order: 1
 has_children: true
+parent: Jobs
 ---
 
 # Conferences

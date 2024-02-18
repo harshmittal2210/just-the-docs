@@ -1,9 +1,9 @@
 ---
 layout: default
-title: PyCon India 2023
-nav_order: 1
+title: IEEE Osaka Japan 2018
+nav_order: 2
 has_children: false
-parent: PyCon
+parent: IEEE
 grand_parent: Conferences
 has_toc: false
 ---
