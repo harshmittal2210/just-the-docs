@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Git
-nav_order: 3
+title: Bikes
+nav_order: 4
 has_children: true
 ---
 
-# Git
+
+# Bikes
 {: .no_toc }
 
 ## Table of contents
@@ -13,5 +14,3 @@ has_children: true
 
 1. TOC
 {:toc}
-
----
