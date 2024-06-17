@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jobs
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 
@@ -31,7 +31,7 @@ gantt
     UPM Malaysia  :2019-06-01,45d
     CRON AI       :2020-01-01,183d
     section Fulltime
-    Asteria Aerospace      :b1, 2020-07-1  , 530d
-    Brane Enterprises      :b2, 2021-11-15 , 900d
+    Asteria Aerospace      :b1, 2020-07-1  , 500d
+    Brane Enterprises      :b2, 2021-11-15 , 1000d
 ```
 
