@@ -17,7 +17,7 @@ title: Blogs by Harsh Mittal
 description: Blogs written by Harsh Mittal
 baseurl: "/blogs" # the subpath of your site, e.g. /blog
 url: "https://harshmittal.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: harshmittal2210/blogs # for github-metadata
+repository: bytesByHarsh/blogs # for github-metadata
 
 permalink: pretty
 
