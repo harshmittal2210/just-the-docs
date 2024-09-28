@@ -11,7 +11,7 @@ has_toc: false
 {: .no_toc }
 
 {: .note-title }
-> tl;dr
+> **Tl;dr**
 >
 > Buying a bike is more than meeting your needs it is also an emotional decision, sometime it makes sense sometime it doesn't. Don't be fixated on the specs and comparison, it's better to have a bike which might not serve all the purpose but will give you peace of mind.
 
