@@ -1,32 +1,32 @@
 ---
 layout: default
-title: How to find perfect bike for you?
+title: How to find the perfect bike for you?
 nav_order: 1
 has_children: false
 parent: Bikes
 has_toc: false
 ---
 
-# How to find perfect bike for you?
+# How to find the perfect bike for you?
 {: .no_toc }
 
 {: .note-title }
 > **Tl;dr**
 >
-> Buying a bike is more than meeting your needs it is also an emotional decision, sometime it makes sense sometime it doesn't. Don't be fixated on the specs and comparison, it's better to have a bike which might not serve all the purpose but will give you peace of mind.
+> Buying a bike is more than meeting your needs it is also an emotional decision, sometimes it makes sense sometimes it doesn't. Don't be fixated on the specs and comparison, it's better to have a bike that might not serve all the purpose but will give you peace of mind.
 
-I recently went through the process of choosing my very first bike, like everyone I too was a novice in bikes and with so many options in the market it was little overwhelming for me. I will go through the process what I went thorough for selecting my bike and hopefully it might answer some of your questions, if not then maybe it will give you a different perspective.
+I recently went through the process of choosing my very first bike, like everyone I too was a novice in bikes, and with so many options in the market, it was a little overwhelming for me. I will go through the process of what I went through for selecting my bike and hopefully, it might answer some of your questions, if not then maybe it will give you a different perspective.
 
 ## Is bike the right choice for you?
 
-Before jumping into searching make sure why you need a bike. Do you actually need one or uber/ola/rapido/metro is best for you.
+Before jumping into searching make sure why you need a bike. Do you actually need one or Uber/Ola/Rapido/Metro is best for you?
 
 ### Who Should Not Own a Bike?
 
- - You travel a lot (Obviously not by 2 wheeler): Bike needs care and constant maintenance, plus if you see practically then you won;t really get a chance to ride. It's better if you can rent a bike or borrow for occasional usage.
- - Safety: If you are concerned about safety better go for 2 wheeler.
- - Big Family: Prefer 4 wheeler if you plan to travel with them.
- - Don't have enough savings: EMI can be your worst enemy, don't listen to influencer saying otherwise.
+- You travel a lot (Obviously not by 2-wheeler): The bike needs care and constant maintenance, plus if you see practically then you won't really get a chance to ride. It's better if you can rent a bike or borrow it for occasional usage.
+- Safety: If you are concerned about safety better go for 2 2-wheeler.
+- Big Family: Prefer 4-wheeler if you plan to travel with them.
+- Don't have enough savings: EMI can be your worst enemy, don't listen to influencers saying otherwise.
 
 ### Who Should Own a Bike?
 
@@ -36,7 +36,7 @@ I know it's contradicting but at least once in your lifetime own a bike.
 
 ## Requirements
 
-This should be the first thing you start with, mostly people go to showrooms and see bikes and then try to think whether it works for them or not. But in reality its better if you have some idea of what all you require out of your bike.
+This should be the first thing you start with, most people go to showrooms and see bikes and then try to think whether it works for them or not. But in reality, it's better if you have some idea of what you require out of your bike.
 
 - **Type**: Bike/Scooty/EVs (Choose Petrol Options, trust me on this!!!)
 - **Brand**: Any desired brands
@@ -45,10 +45,10 @@ This should be the first thing you start with, mostly people go to showrooms and
 - **Budget**: Rough Idea, more we'll talk later
 - **Max Running Cost**: Service Cost + Avg Petrol + Minor Repairs + Insurance
 - **Basic Features**: Bluetooth, Display Type, Riding Modes etc.
-- **Deal breakers**: Any thing if not there then you will not even consider it.
-- **Great to Have**: Any thing extra that will be cherry on top.
+- **Deal breakers**: Anything that is not there then you will not even consider it.
+- **Great to Have**: Anything extra that will be the cherry on top.
 - **Safety**: Stability, Tyre Types, Break Types
-- **Max Speed**: Mostly for travelers and racing enthusiast.
+- **Max Speed**: Mostly for travelers and racing enthusiasts.
 
 Obviously there are other things to consider as well but we'll come into each one of them.
 
