@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Blogs by Harsh Mittal
 description: Blogs written by Harsh Mittal
-baseurl: "/blogs" # the subpath of your site, e.g. /blog
-url: "https://harshmittal.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.harshmittal.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: bytesByHarsh/blogs # for github-metadata
 
 permalink: pretty
