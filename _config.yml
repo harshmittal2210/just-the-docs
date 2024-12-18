@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Blogs by Harsh Mittal
 description: Blogs written by Harsh Mittal
-baseurl: "/blogs" # the subpath of your site, e.g. /blog
-url: "https://harshmittal.com" # the base hostname & protocol for your site, e.g. http://example.com
-repository: harshmittal2210/blogs # for github-metadata
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.harshmittal.com" # the base hostname & protocol for your site, e.g. http://example.com
+repository: bytesByHarsh/blogs # for github-metadata
 
 permalink: pretty
 
@@ -80,6 +80,8 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+  # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
+  focus_shortcut_key: 'k'
 
 # For copy button on code
 enable_copy_code_button: true
@@ -109,6 +111,10 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
 nav_sort: case_sensitive # Capital letters sorted before lowercase
@@ -117,6 +123,10 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 nav_external_links:
   - title: Harsh Mittal Tutorials
     url: https://harshmittal.com/tutorials
+
+liquid:
+   error_mode: strict
+   strict_filters: true
 
 # Footer content
 # appears at the bottom of every page's main content
